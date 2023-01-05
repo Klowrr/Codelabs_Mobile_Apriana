@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Musisi Favorit</string>
+    <string name="musician">Musisi</string>
+    <string name="detail">Detail</string>
+    <string name="genre">Genre</string>
+    <string name="album">Album</string>
+    <string name="menu_profile">Profile</string>
+    <string name="apriana">Apriana Cahya Bowo Setiadi</string>
+    <string name="major">Major</string>
+    <string name="university">University</string>
+    <string name="instagram">Instagram</string>
+    <string name="email">Email</string>
+    <string name="informatics_enginering">: Informatics Enginering</string>
+    <string name="universitas_komputer_indonesia_unikom">: Universitas komputer Indonesia (UNIKOM)</string>
+    <string name="aprianacahya04_gmail_com">: aprianacahya04@gmail.com</string>
+    <string name="_4_apriana">: 4_apriana</string>
+    <string name="sutradara">Sutradara</string>
+    <string name="produser">Produser</string>
+    <string name="sinopsis">Sinopsis</string>
+    <string name="tahun_rilis">Tahun Rilis</string>
+    <string name="film">Film</string>
+</resources>
